@@ -12,7 +12,7 @@ public class Main {
         SUN Solana=new SUN();
         Solana.Heat="6776767367kj";
         Solana.radius="6473647634km";
-        Solana.temp="122131243c";
+        Solana.temp=9231243;
  
 //        working on planet2 feature
         planet2 perry =new planet2();

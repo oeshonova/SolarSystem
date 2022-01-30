@@ -12,7 +12,7 @@ public class Main {
         SUN Solana=new SUN();
         Solana.Heat="6776767367kj";
         Solana.radius="6473647634km";
-        Solana.temp="122131243c";
+        Solana.temp=9231243;
  
 //        working on planet2 feature
         planet2 perry =new planet2();
@@ -24,20 +24,18 @@ public class Main {
         narwhal.color="green";
         narwhal.size="123434342423km";
 
-
-
-
-
-
-
-
-
-
 //        moon2 feature added
         moon2 montero=new moon2();
         montero.color="red";
         montero.radius="4324234234";
         montero.lightintensity="9348lunouns";
+ 
+//        adding moon 1 features
+        moon1 montero1 =new moon1();
+        montero1.color="blue";
+        montero1.radius="2443343";
+        montero1.lightintensity="87478374lumouns";
+ 
 
  
     }

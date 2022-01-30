@@ -24,11 +24,18 @@ public class Main {
         narwhal.color="green";
         narwhal.size="123434342423km";
 
+//        moon2 feature added
+        moon2 montero=new moon2();
+        montero.color="red";
+        montero.radius="4324234234";
+        montero.lightintensity="9348lunouns";
+ 
 //        adding moon 1 features
-        moon1 montero =new moon1();
-        montero.color="blue";
-        montero.radius="2443343";
-        montero.lightintensity="87478374lumouns";
+        moon1 montero1 =new moon1();
+        montero1.color="blue";
+        montero1.radius="2443343";
+        montero1.lightintensity="87478374lumouns";
+ 
 
  
     }

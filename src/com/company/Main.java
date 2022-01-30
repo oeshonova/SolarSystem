@@ -13,11 +13,17 @@ public class Main {
         Solana.Heat="6776767367kj";
         Solana.radius="6473647634km";
         Solana.temp="122131243c";
-
+ 
+//        working on planet2 feature
+        planet2 perry =new planet2();
+        perry.color="yellow";
+        perry.size="948924892km";
+ 
 //        adding planet1 features
         PLANET1 narwhal =new PLANET1();
         narwhal.color="green";
         narwhal.size="123434342423km";
 
+ 
     }
 }
